@@ -129,6 +129,14 @@
 
 ---
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/MahmoudGShake/MahmoudGShake/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+---
+
 ## 🎯 What I Focus On
 
 - Clean Architecture & Scalable Systems  
