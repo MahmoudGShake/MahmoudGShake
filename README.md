@@ -71,24 +71,53 @@
 - Centralized authentication & authorization  
 - Token-based security + RBAC  
 - Microservices-ready architecture  
+🔗 [API Documentation](https://www.b-pulsehub.cloudmate.cz/api/docs/)
 
 ---
 
 ### 🏗️ CloudMate — IoT Platform
 - Real-time sensor data processing  
 - Scalable APIs for devices & metrics  
+🔗 [API Documentation](https://www.b-pulsedata.cloudmate.cz/api/docs/)  
+🔗 [New Version](https://b-cloudmate-new.cloudmate.cz/api/docs/) 🚀
 
 ---
 
 ### 📊 ProjectHub — Management System
 - Tasks, teams, permissions  
 - Background jobs with Celery  
+🔗 [API Documentation](https://www.b-projectshub.cloudmate.cz/api/docs/)
 
 ---
 
 ### 💰 PulseFin — Financial System
 - Secure financial APIs  
 - High-performance query optimization  
+🔗 [API Documentation](https://www.b-pulsefin.cloudmate.cz/api/docs/)
+
+---
+
+### 🚢 SeaWise — Ship Tracking System (NEW 🚀)
+- Real-time ship tracking & analytics  
+- Advanced maritime data calculations  
+- High-performance data processing pipelines  
+🔗 [API Documentation](https://www.b-seawise-new.cloudmate.cz/api/docs/)
+
+---
+
+### 🌱 LCA API — Ship Environmental Impact
+- Life Cycle Assessment (LCA) calculations  
+- Environmental impact analysis for ships  
+- Scalable scientific computation backend  
+🔗 [API Documentation](https://www.b-lca-api.cloudmate.cz/api/docs/)
+
+---
+
+### 📡 PulseData — Real-time Simulation Engine
+- Real-time ship data simulation  
+- Streaming & processing high-volume data  
+- Designed for scalability & performance  
+🔗 [API Documentation](https://b-pulsedata.cloudmate.cz/api/docs/)
 
 ---
 
