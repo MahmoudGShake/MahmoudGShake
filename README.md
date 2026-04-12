@@ -73,57 +73,161 @@
 
 ## 📌 Featured Projects
 
-### 🔐 PulseHub — Auth System
-- Centralized authentication & authorization  
-- Token-based security + RBAC  
-- Microservices-ready architecture  
-🔗 [API Documentation](https://www.b-pulsehub.cloudmate.cz/api/docs/)
+## Projects
+
+### [PulseHub](https://linkly.link/2gEU6)  
+<img src="https://qr-linkly.link/2gHJ2.qr.png" width="90" align="right" />
+
+Centralized authentication and orchestration platform powering multiple integrated services.
+
+- Orchestrates services like CodeHub, PulseFin, SeaWise, and ProjectHub  
+- Async task processing with Celery (jobs, scheduling, external APIs)  
+- Real-time architecture using Django Channels + Redis (WebSockets)  
+- Modular integrations via token-based APIs and webhooks  
+- Environment-based configuration (`.env`, python-decouple)  
+- Dockerized multi-environment builds with production-ready Gunicorn  
+- High-performance async communication via aiohttp  
+
+**Tech:** Django, DRF, Celery, Redis, Channels, PostgreSQL/MySQL, WebSockets, JWT, Docker, Gunicorn, aiohttp  
 
 ---
 
-### 🏗️ CloudMate — IoT Platform
-- Real-time sensor data processing  
-- Scalable APIs for devices & metrics  
-🔗 [API Documentation](https://www.b-pulsedata.cloudmate.cz/api/docs/)  
-🔗 [New Version](https://b-cloudmate-new.cloudmate.cz/api/docs/) 🚀
+### [PulseConnect](https://linkly.link/2gENR)  
+<img src="https://linkly.link/2gENR.qr.png" width="90" align="right" />
+
+IoT monitoring and data integration backend for multi-source device ecosystems.
+
+- Multi-source ingestion (APIs, files, MQTT streams)  
+- Integration with external IoT platforms (e.g., Hardwario)  
+- Scalable data pipelines with transformation & mapping  
+- Event-driven processing and background workflows  
+- Flexible sensor models and permission systems  
+- Redis caching + JWT-secured APIs  
+- Production-ready Docker deployment  
+
+**Tech:** Django, DRF, PostgreSQL, Redis, MQTT, InfluxDB, Pandas, NumPy, JWT, Docker  
 
 ---
 
-### 📊 ProjectHub — Management System
-- Tasks, teams, permissions  
-- Background jobs with Celery  
-🔗 [API Documentation](https://www.b-projectshub.cloudmate.cz/api/docs/)
+### [CloudMate](https://linkly.link/2gEYr)  
+<img src="https://linkly.link/2gEYr.qr.png" width="90" align="right" />
+
+Construction monitoring platform with real-time operations and secure workflows.
+
+- Full user lifecycle system (roles, groups, logs)  
+- JWT + OTP authentication flows  
+- Async processing with Celery + scheduled tasks  
+- Real-time updates via WebSockets (Django Channels)  
+- Redis caching and performance optimization  
+- Google APIs / AI integrations  
+- Dockerized deployment with Gunicorn  
+
+**Tech:** Django, DRF, PostgreSQL, Celery, Redis, Channels, JWT, Docker, Google APIs  
 
 ---
 
-### 💰 PulseFin — Financial System
-- Secure financial APIs  
-- High-performance query optimization  
-🔗 [API Documentation](https://www.b-pulsefin.cloudmate.cz/api/docs/)
+### [ProjectHub](https://linkly.link/2gEe7)  
+<img src="https://linkly.link/2gEe7.qr.png" width="90" align="right" />
+
+Project lifecycle and workflow management backend.
+
+- Modular architecture (planning vs execution phases)  
+- REST APIs with filtering and structured access  
+- Async background processing with Celery  
+- Geospatial analytics using H3 + GeoPy  
+- Document generation (PDF, DOCX)  
+- Containerized with Docker and deployed via Gunicorn  
+
+**Tech:** Django, DRF, PostgreSQL, Celery, Redis, H3, GeoPy, ReportLab, Docker  
 
 ---
 
-### 🚢 SeaWise — Ship Tracking System (NEW 🚀)
-- Real-time ship tracking & analytics  
-- Advanced maritime data calculations  
-- High-performance data processing pipelines  
-🔗 [API Documentation](https://www.b-seawise-new.cloudmate.cz/api/docs/)
+### [PulseFin](https://linkly.link/2gEjS)  
+<img src="https://linkly.link/2gEjS.qr.png" width="90" align="right" />
+
+Financial management system for expense tracking and project-based cost control.
+
+- Expense workflows (approvals, aggregation, reporting)  
+- Secure REST APIs with filtering and throttling  
+- Async processing using Celery  
+- Geospatial + financial data integrations  
+- CI/CD pipelines via GitHub Actions  
+- Dockerized production deployment  
+
+**Tech:** Django, DRF, PostgreSQL, Celery, Redis, Docker, GitHub Actions, NumPy, Dask  
 
 ---
 
-### 🌱 LCA API — Ship Environmental Impact
-- Life Cycle Assessment (LCA) calculations  
-- Environmental impact analysis for ships  
-- Scalable scientific computation backend  
-🔗 [API Documentation](https://www.b-lca-api.cloudmate.cz/api/docs/)
+### [SeaWise](https://linkly.link/2gEqS)  
+<img src="https://linkly.link/2gEqS.qr.png" width="90" align="right" />
+
+Maritime IoT analytics platform for time-series data and scientific processing.
+
+- MQTT + InfluxDB for real-time time-series ingestion  
+- REST APIs for telemetry and device management  
+- Scientific computing pipelines (NumPy, Pandas, SciPy)  
+- Async processing and scalable backend design  
+- Dockerized deployment with optimized serving  
+
+**Tech:** Django, DRF, InfluxDB, MQTT, NumPy, Pandas, SciPy, Docker  
 
 ---
 
-### 📡 PulseData — Real-time Simulation Engine
-- Real-time ship data simulation  
-- Streaming & processing high-volume data  
-- Designed for scalability & performance  
-🔗 [API Documentation](https://b-pulsedata.cloudmate.cz/api/docs/)
+### [LCA Calculator](https://linkly.link/2gExd)  
+<img src="https://linkly.link/2gExd.qr.png" width="90" align="right" />
+
+Lifecycle analysis API for maritime emissions and fuel impact modeling.
+
+- Supports IMO & FuelEU regulatory frameworks  
+- Multi-step emissions modeling pipeline  
+- Machine learning preprocessing (scaling, feature engineering)  
+- API key authentication with dynamic serializers  
+- CSV ingestion pipelines for emission datasets  
+
+**Tech:** Django, DRF, PostgreSQL, Scikit-learn, Pandas, NumPy, Matplotlib  
+
+---
+
+### [PulseData](https://linkly.link/2gFCu)  
+<img src="https://linkly.link/2gFCu.qr.png" width="90" align="right" />
+
+AIS maritime data processing and transformation system.
+
+- Excel-based AIS data ingestion pipelines  
+- Data transformation using Pandas + OpenPyXL  
+- REST APIs for dataset management  
+- JWT-secured endpoints and modular architecture  
+- Dockerized with production-ready setup  
+
+**Tech:** Django, DRF, PostgreSQL, Pandas, NumPy, OpenPyXL, Docker  
+
+---
+
+### [PulseCore](https://linkly.link/2gHJw)  
+<img src="https://linkly.link/2gHJw.qr.png" width="90" align="right" />
+
+Reusable Django microservices framework for standardizing backend systems.
+
+- Service-to-service communication with API key auth  
+- Advanced middleware (logging, validation, security)  
+- Custom RBAC-like permission system  
+- Dynamic DRF ViewSets with filtering & caching  
+- Secure media delivery via signed URLs  
+
+**Tech:** Django, DRF, JWT, OpenAPI, JSONSchema, Requests, PyYAML  
+
+---
+
+### [Morsel](https://linkly.link/2gHJz)  
+<img src="https://linkly.link/2gHJz.qr.png" width="90" align="right" />
+
+Desktop automation tool for scraping and messaging workflows.
+
+- Facebook scraping + WhatsApp automation  
+- GUI built with Tkinter  
+- Browser automation using Selenium  
+
+**Tech:** Python, Tkinter, Selenium, MySQL  
 
 ---
 
