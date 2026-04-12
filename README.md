@@ -51,9 +51,9 @@
 
 ## 💼 Experience
 
-### 🏢 Python Backend Developer — [Digital InnoCent LTD](https://linkly.link/2gHIh)  <img src="https://qr-linkly.link/2gHIh.qr.png" width="90" style="float: right; margin-left: 15px;" />
+### 🏢 Python Backend Developer — [Digital InnoCent LTD](https://linkly.link/2gHIh)  
 **Aug 2024 – Present**
-
+<img src="https://qr-linkly.link/2gHIh.qr.png" width="90" style="float: right; margin-left: 15px;" />
 - Built scalable backend systems serving multiple platforms  
 - Developed systems: **PulseHub, CloudMate, ProjectHub, PulseFin**  
 - Optimized PostgreSQL queries → improved performance significantly  
