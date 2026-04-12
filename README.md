@@ -30,6 +30,7 @@
 - 🔐 Designed **RBAC & secure authentication systems**
 - 📊 Strong in **PostgreSQL performance optimization**
 - 📍 Based in Egypt — Open to opportunities
+- 📄 [View Resume](https://drive.google.com/file/d/1T-blBKB_mB1C53H5t2K3RdnNT029EmHs/view?usp=sharing)
 
 ---
 
