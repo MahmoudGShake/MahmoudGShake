@@ -53,6 +53,7 @@
 
 ### 🏢 Python Backend Developer — [Digital InnoCent LTD](https://linkly.link/2gHIh)
 <img src="https://linkly.link/2gHIh.qr.png" width="90" align="right" />
+
 **Aug 2024 – Present**
 - Built scalable backend systems serving multiple platforms  
 - Developed systems: **PulseHub, CloudMate, ProjectHub, PulseFin**  
