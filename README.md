@@ -51,7 +51,7 @@
 
 ## 💼 Experience
 
-### 🏢 Python Backend Developer — [Digital InnoCent LTD](https://linkly.link/2gHIh)  <img src="https://qr-linkly.link/2gHIh.qr.png" width="120" style="float: right; margin-left: 15px;" />
+### 🏢 Python Backend Developer — [Digital InnoCent LTD](https://linkly.link/2gHIh)  <img src="https://qr-linkly.link/2gHIh.qr.png" width="90" style="float: right; margin-left: 15px;" />
 **Aug 2024 – Present**
 
 - Built scalable backend systems serving multiple platforms  
